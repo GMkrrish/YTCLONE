@@ -1,4 +1,6 @@
 # YTCLONE
 This is my first clone. 
 <br>
-Author:- Radhe Bhaiyaaa
+Author:- Krish.
+<br>
+<h1>Features</h1>
